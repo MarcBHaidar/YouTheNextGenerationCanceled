@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Gp
-Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Project Name: You The Next Generation
+Project URL: https://marcbhaidar.github.io/YouTheNextGeneration/
